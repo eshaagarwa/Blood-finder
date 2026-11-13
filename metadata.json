@@ -1,0 +1,6 @@
+{
+  "name": "LifeLine GRID",
+  "description": "Emergency Blood Network — Instant hospital-to-donor blood dispatch, compatibility matching, and regional reserve coordination for Gurugram & NCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
